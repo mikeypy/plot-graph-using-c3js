@@ -16,7 +16,7 @@ For development purpose i used python's web server
 python --version
 Python 3.5.2
 
-cd-local folder containing the file
-python -m http.server
+open the cmd tool and and change to cd-local folder containing the file
+type python -m http.server in the prompt to start local webserver
 
 Afterwards visit http://localhost:8000 to see website
